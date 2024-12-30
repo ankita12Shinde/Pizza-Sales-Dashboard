@@ -22,3 +22,4 @@ To create an interactive dashboard that provides insights into pizza sales perfo
 ## Interactive Dashboard
 <a href=https://github.com/ankita12Shinde/Pizza-Sales-Dashboard/blob/main/Screenshot2.png>View Dashboard</a>
 
+![image alt](https://github.com/ankita12Shinde/Pizza-Sales-Dashboard/blob/0e0b850bd72d44d5431cc7f2fadf3a0c2fe25a23/Screenshot2.png)
