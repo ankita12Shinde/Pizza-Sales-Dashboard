@@ -20,5 +20,5 @@ To create an interactive dashboard that provides insights into pizza sales perfo
 - Top 5 Pizzas by Revenue
 
 ## Interactive Dashboard
-<a href=https://github.com/ankita12Shinde/Pizza-Sales-Dashboard/blob/main/Screenshot2.png>View Dashboard</a
+<a href=https://github.com/ankita12Shinde/Pizza-Sales-Dashboard/blob/main/Screenshot2.png>View Dashboard</a>
 
