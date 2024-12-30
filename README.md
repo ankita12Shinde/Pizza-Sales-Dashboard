@@ -24,3 +24,5 @@ To create an interactive dashboard that provides insights into pizza sales perfo
 
 ##Screenshots
 ![image alt](https://github.com/ankita12Shinde/Pizza-Sales-Dashboard/blob/0e0b850bd72d44d5431cc7f2fadf3a0c2fe25a23/Screenshot2.png)
+![image alt](https://github.com/ankita12Shinde/Pizza-Sales-Dashboard/blob/1c788a4878ac7e91abde1ba9ca9a4c2e3a8930ce/Screenshot1.png)
+
